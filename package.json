@@ -1,0 +1,24 @@
+{
+  "name": "workshopserver2",
+  "version": "1.0.0",
+  "description": "Workshop Server 2 rudiment for 350",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gransburyia/workshopServer2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gransburyia/workshopServer2/issues"
+  },
+  "homepage": "https://github.com/gransburyia/workshopServer2#readme",
+  "dependencies": {
+    "dateformat": "^3.0.3",
+    "express": "^4.17.1",
+    "pg": "^7.12.1"
+  }
+}
