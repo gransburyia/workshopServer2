@@ -1,5 +1,6 @@
 DROP DATABASE IF EXISTS workshopserver2;
 CREATE DATABASE workshopserver2;
+\c workshopserver2;
 
 DROP TABLE IF EXISTS attendees;
 CREATE TABLE attendees(
